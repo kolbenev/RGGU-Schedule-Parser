@@ -26,7 +26,7 @@ def add_in_db(new_line: Raspis):
     session.commit()
 
 
-def main(params: Dict, pars_list: Dict, url: str):
+def main(params: Dict, pars_time: Dict, url: str):
     schedule: List[List[str]] = get_schedule(url, params)
     Base.metadata.drop_all(bind=engine)
     Base.metadata.create_all(bind=engine)

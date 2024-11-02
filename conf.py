@@ -4,14 +4,14 @@ params = {
     'formob': 'Д',
     'kyrs': '3',
     'srok': 'interval',
-    'caf': '505',
-    'cafzn': 'ФМОПиЗР_П_ГПиУПМ (Группа: 2)',
+    'caf': '504',
+    'cafzn': 'в',
     'sdate_year': '2024',
     'sdate_month': '10',
     'sdate_day': '31',
     'fdate_year': '2024',
-    'fdate_month': '11',
-    'fdate_day': '29'
+    'fdate_month': '10',
+    'fdate_day': '31'
 }
 
 pars_time = {
